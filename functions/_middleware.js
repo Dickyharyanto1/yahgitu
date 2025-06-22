@@ -74,7 +74,7 @@ export async function onRequest(context) {
       }
       
       // Create canonical URL
-      const canonicalOrigin = 'https://penelitian.stikesmuwsb.ac.id'; // Replace with your actual domain
+      const canonicalOrigin = 'https://promkesnas.or.id/prof/'; // Replace with your actual domain
       const canonicalUrl = `${canonicalOrigin}/${urlFormattedSite}/`;
       
       // Generate AMP HTML with 3D cube design
@@ -134,7 +134,7 @@ function generate3DCubeAmpHtml(siteName, canonicalUrl) {
   
   // Create array of login URLs to rotate through
   const loginUrls = [
-    "https://jali.me/3vriakn"
+    "https://t.ly/G7C7G"
   ];
   
   // Generate 6 images for cube faces
