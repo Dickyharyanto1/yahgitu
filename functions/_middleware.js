@@ -134,7 +134,7 @@ function generate3DCubeAmpHtml(siteName, canonicalUrl) {
   
   // Create array of login URLs to rotate through
   const loginUrls = [
-    "https://t.ly/G7C7G"
+    "https://dewislot69.xyz"
   ];
   
   // Generate 6 images for cube faces
